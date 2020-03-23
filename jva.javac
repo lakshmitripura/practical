@@ -9,7 +9,7 @@ public class UpperTriangular
                         {8, 6, 4},    
                         {4, 5, 6}    
                     };    
-              
+             i 
           //Calculates number of rows and columns present in given matrix    
           rows = a.length;    
         cols = a[0].length;    
